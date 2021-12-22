@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list version="1.0">
 	<fvm_meta theme_code="" is_biz="0" />
-	<theme id="custom" name="Comedy World" thumb="" cc_theme_id="custom" />
+	<theme id="custom" name="Comedy World" thumb="" cc_theme_id="family" />
 	<theme id="import" name="Imported Assets" thumb="" />
-	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" />
+	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" cc_theme_id="retro" />
 	<theme id="vietnam" name="Jungle Warfare" thumb="" />
 	<theme id="infographics" name="Video Infographics" thumb="" />
 	<theme id="monstermsh" name="Monsters Mayhem" thumb="" />
@@ -21,7 +21,7 @@
 	<theme id="christmas" name="Holiday &amp; Seasonal" thumb="santa-stand.swf" />
 	<theme id="Community" name="Community Library" thumb="" />
 	<theme id="commu" name="Community" thumb="" />
-	<theme id="spacecitizen" name="Space Citizens" thumb="" cc_theme_id="spacecitizen" />
+	<theme id="ninjaanime" name="Ninja Anime" thumb="" cc_theme_id="ninjaanime" />
 	<theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" />
 	<theme id="fullenergy" name="Full Energy" thumb=""/>
 	<theme id="akon" name="AKON" />
